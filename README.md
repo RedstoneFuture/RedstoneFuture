@@ -1,6 +1,6 @@
 # Hello and welcome :wink:
 
-My name is Robert Rauh aka. _RedstoneFuture_ and here on GitHub I manage various projects especially for Minecraft. I am a german game-designer and server administrator provatively and professionally.
+My name is Robert Rauh aka. _RedstoneFuture_ and here on GitHub I manage various projects, especially for the all-known game **Minecraft**. I am a game-designer and server administrator, both privately and professionally.
 
 In addition to the main projects listed below, I naturally support some of the open-source plugin projects used by my servers.
 
