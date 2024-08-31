@@ -17,3 +17,6 @@ In addition to the main projects listed below, I naturally support some of the o
 ## More about me
 
 You can find out more about me on my website [Rauh-Solutions.de](https://rauh-solutions.de). There you can also fine my [design-portfilio](https://rauh-solutions.de/portfolio).
+
+<a href="https://redstoneworld.de/Discord"><img src="https://github.com/user-attachments/assets/4d9605ad-658e-4dfe-9942-0f6898a8280b" width="40" /></a>
+<a href="https://www.youtube.com/@RedstoneFutureTV"><img src="https://github.com/user-attachments/assets/5e7485f9-8958-4458-bd10-bdc5c889690b" width="40" /></a>
