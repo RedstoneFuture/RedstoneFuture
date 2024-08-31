@@ -8,11 +8,11 @@ In addition to the main projects listed below, I naturally support some of the o
 
 ## Main Projects
 
-- german Minecraft-Server [RedstoneWorld](https://redstoneworld.de) (project management, administration and plugin development)
-- german Minecraft-Server [Canstein-Berlin](https://canstein-berlin.de) (project management, administration and plugin development)
+- german Minecraft Server [RedstoneWorld](https://redstoneworld.de) (project management, administration and plugin development)
+- german Minecraft Server [Canstein-Berlin](https://canstein-berlin.de) (project management, administration and plugin development)
 - public Minecraft minigame plugin [MissileWars](https://github.com/RedstoneFuture/missilewars) for Spigot (main development and support)
-- official Plugin [Documentation](https://intellectualsites.gitbook.io) of [FAWE](https://www.spigotmc.org/resources/13932) and [PlotSquared](https://www.spigotmc.org/resources/77506)
-- inofficial Plugin [Documentation](https://github.com/RedstoneFuture/LWCX-Wiki-Rebuild) of [LWCX](https://www.spigotmc.org/resources/69551)
+- official Plugin [Documentation](https://intellectualsites.gitbook.io) of [FAWE](https://www.spigotmc.org/resources/13932) and [PlotSquared](https://www.spigotmc.org/resources/77506) from IntellectualSites
+- inofficial Plugin [Documentation](https://github.com/RedstoneFuture/LWCX-Wiki-Rebuild) rework of [LWCX](https://www.spigotmc.org/resources/69551)
 
 ## More about me
 
