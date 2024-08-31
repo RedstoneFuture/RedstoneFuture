@@ -4,7 +4,6 @@ My name is Robert Rauh aka. _RedstoneFuture_ and here on GitHub I manage various
 
 In addition to the main projects listed below, I naturally support some of the open-source plugin projects used by my servers.
 
-[![Technical Cover - 300px](https://github.com/user-attachments/assets/2e77f73d-6a70-4930-af93-d22c81564c90)](https://github.com/RedstoneFuture)
 [![Game-World Cover - 300px](https://github.com/user-attachments/assets/db8ae145-1cc6-40e9-9f4e-3ceb3975bdf7)](https://github.com/RedstoneFuture)
 
 ## Main Projects
